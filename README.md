@@ -8,6 +8,7 @@ Tested up to: 3.5<br />
 Stable tag: 3.5<br />
 License: GPLv2 or later<br />
 Donate link: http://rezz.ru/TagGeneratorDonationLink<br />
+Using: http://code.google.com/p/translate-api/source/browse/trunk/Yandex_Translate.php
 
 Generates tags for posts, using Yahoo and Yandex API.<br />
 
